@@ -1,0 +1,23 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: Blue;}
+  h1 {
+  background: url("/resources/the-flatiron-building") no-repeat center center;
+
+}
+
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  color: Blue;
+}
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+  color: Gray;
+}
