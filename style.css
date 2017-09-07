@@ -2,11 +2,10 @@
   font-family: Helvetica, sans-serif;
 }
 div.banner {
-
-}
-h1 {
 background-image: url("Resources/the-flatiron-building.png");
 background-size: 100% 100% ;
+}
+h1 {
 font-size: 70px;
 font-weight: bold;
 color: White;
@@ -42,7 +41,16 @@ font-size: 23px bold;
 text-align: center;
 
 }
-
+div.sm.banner {
+  background-image: url("Resources/the-flatiron-building.png");
+  background-size: 20% 20%;
+h3 {
+  font-size: 23p
+  color: White;
+  font-weight: bold;
+  text-align: center;
+  }
+}
 
 h6 {
   font-size: 11px;
